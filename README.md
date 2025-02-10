@@ -4,9 +4,7 @@ Last Release Date: 2025-01-15
 
 ## Contributing Authors
 
-Jin Bo
-
-Fan HuaLin
+Bo Jin, Xinye Cao, Ming Li, Hualin Fan
 
 ## About Project
 
